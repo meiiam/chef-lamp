@@ -1,0 +1,7 @@
+{
+    "id": "mei",
+    "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6T9lwpYKcbpAYJkFWA5Trbfa9NLJCCCiylF4AoBIH84uhabKpbdrEdxHcLXwpUhgOqflPmNGsY9KLfQthvusIUPD6cX08My6JYlIkPJIf7eC4knYbAYSvF0EfGIXeL3FtugWSuTKitnpFyJY7ukJ3fKNBmzSeiFA+HgXjEH4KgAQCMhdwKoxFYDpsazrGlO2GwQEbICoXLi/+JlUeWvuCovPKSyvOOCSD5yGRbO4qC/hZmXYBintip1AJAqBsEgtYVZT5P5e+wBCXRSx7X+EidkhbFf3ciiZ2s1oqThE+dKwzP7FRaOKH1nPpAGN/VWMp0Ft4IPorALj71EOErAhl mei@geekology.co",
+    "groups": [ "sysadmin", "dba", "devops" ],
+    "uid": 2001,
+    "shell": "\/bin\/bash"
+}
