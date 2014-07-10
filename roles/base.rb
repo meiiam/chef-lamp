@@ -1,7 +1,7 @@
 name "base"
-description "Base role applied to all nodes in our LAMP stack."
+description "Base role applied to all nodes."
 
-run_list (
+run_list(
   "recipe[apt]",
   "recipe[git]",
   "recipe[build-essential]",
